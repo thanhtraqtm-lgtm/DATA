@@ -1,0 +1,4 @@
+son
+{
+  "rewrites": [{ "source": "/(.*)", "destination": "/" }]
+}
